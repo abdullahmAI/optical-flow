@@ -1,4 +1,4 @@
-# optical-flow based motion tracking
+# Optical-Flow based motion tracking
 
 Optical Flow-Based Motion Tracking:
 
